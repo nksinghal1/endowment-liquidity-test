@@ -1,0 +1,57 @@
+{
+  "months": 239,
+  "start": "2006-11-30",
+  "end": "2026-09-30",
+  "paths": 10000,
+  "horizon_months": 120,
+  "baseline": [
+    {
+      "w_priv": 0.2,
+      "p_floor_breach": 0.0,
+      "p_forced_cut": 0.0,
+      "p_unmet_call": 0.0,
+      "p_cover_below_2": 0.0002,
+      "median_min_cover": 8.101564707465647,
+      "p5_min_cover": 5.311278092168516,
+      "median_min_liq_share": 0.794804525724691,
+      "p5_min_liq_share": 0.7805160049164235,
+      "median_end_real_value": 853.1795758269334,
+      "p5_end_real_value": 293.9439297426913,
+      "median_min_real_spend": 0.8812847049672203,
+      "p5_min_real_spend": 0.5188231523155556,
+      "ci_forced": 1.96e-08
+    },
+    {
+      "w_priv": 0.4,
+      "p_floor_breach": 0.0017,
+      "p_forced_cut": 0.0015,
+      "p_unmet_call": 0.0009,
+      "p_cover_below_2": 0.0143,
+      "median_min_cover": 4.839527353750099,
+      "p5_min_cover": 2.9390647447004286,
+      "median_min_liq_share": 0.5946961259180459,
+      "p5_min_liq_share": 0.5709664410036828,
+      "median_end_real_value": 802.0549051565205,
+      "p5_end_real_value": 213.87628051401003,
+      "median_min_real_spend": 0.8560165881956316,
+      "p5_min_real_spend": 0.45518087621500214,
+      "ci_forced": 0.0007585351936462804
+    },
+    {
+      "w_priv": 0.6,
+      "p_floor_breach": 0.0308,
+      "p_forced_cut": 0.0251,
+      "p_unmet_call": 0.0203,
+      "p_cover_below_2": 0.1807,
+      "median_min_cover": 2.826590192423457,
+      "p5_min_cover": 0.8864180521910143,
+      "median_min_liq_share": 0.39658998683764934,
+      "p5_min_liq_share": 0.24286838134609676,
+      "median_end_real_value": 741.6744822360497,
+      "p5_end_real_value": 137.49880149855144,
+      "median_min_real_spend": 0.8283237530737453,
+      "p5_min_real_spend": 0.37310624921766405,
+      "ci_forced": 0.0030660057662046233
+    }
+  ]
+}
